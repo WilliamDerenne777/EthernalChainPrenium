@@ -1,0 +1,16 @@
+{
+    "name": "ethernalchainprenium",
+    "version": "1.0.0",
+    "description": "EthernalChainPrenium est une application permettant aux clients de déposer des Ethers, de stocker leurs dernières volontés sous forme de documents notariés et de gérer les bénéficiaires.",
+    "main": "src/index.js",
+    "scripts": {
+      "test": "mocha"
+    },
+    "author": "William Derenne",
+    "license": "ISC",
+    "dependencies": {
+      "dotenv": "^16.0.0",
+      "truffle": "^5.4.29",
+      "web3": "^1.5.3"
+    }
+  }
